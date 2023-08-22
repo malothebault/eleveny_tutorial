@@ -1,0 +1,16 @@
+{
+  "name": "eleveny_tutorial",
+  "version": "1.0.0",
+  "description": "My first 11ty website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx @11ty/eleventy --serve",
+    "build": "npx @11ty/eleventy"
+  },
+  "author": "malo thebault",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}
