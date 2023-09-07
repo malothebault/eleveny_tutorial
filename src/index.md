@@ -12,3 +12,8 @@ lalala
 ## Blog Posts
 
 {% include "postlist.njk" %}
+
+## Image of the Day
+
+
+<img src="{{ catpic }}" />
